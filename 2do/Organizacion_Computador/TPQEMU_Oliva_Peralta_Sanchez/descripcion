@@ -1,0 +1,14 @@
+
+Luca Oliva  45091827
+Lautaro Gaston Peralta	45486093
+Santiago Ezequiel Sanchez  45347357
+
+_Ejercicio 1:
+
+Al presionar "espacio", el boton de la derecha cambiara a verde y el emoji cambiara de color.
+Esto se puede repetir para volver al estado inicial. Hay un tiempo de espera entre presiones de tecla.
+
+_Ejercicio 2:
+
+Hay una tanque que se controla con "w a s d". Al apretar "espacio" se apunta con el cañon a un
+castillo (tambien se mueve con "w a s d"). Apretar "espacio" de vuelta dispara (animacion).
